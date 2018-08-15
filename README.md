@@ -1,5 +1,5 @@
 # colorGame
-colorGame is a RGB color game written in html,css & javaScript.
+colorGame is a RGB color guessing game written in html,css & javaScript.
 
 #instructions
 
