@@ -11,3 +11,5 @@ press PLAY AGAIN to continue next round.
 
 
 choose EASY or HARD mode by simply pressing the buttons.
+
+play & enjoy : https://naimul-islam-siam.github.io/colorGame/
